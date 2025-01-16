@@ -1,7 +1,6 @@
 import "@github/relative-time-element";
 
 import "./App.css";
-import RelativeTimeElement from "@github/relative-time-element";
 import { RelativeTimeWrapper } from "./relativeTimeWrapper";
 
 function App() {
